@@ -1,0 +1,45 @@
+## GitHub Lab Practice.
+
+# Git Fundamentals
+Initialize & Commit Local Repository
+Create a local git repository, make commits with meaningful messages, and understand git workflow.
+make commits
+
+# GitHub Repository Setup
+Create Remote Repository & Push Code
+Create GitHub repository, configure origin, and push local commits to remote.
+
+# Branching Strategy
+Implement Git Branching & Merging
+Create feature branches, make changes, and merge back to main. Implement Git Flow strategy.
+
+# Pull Requests & Code Review
+Create PR & Implement Review Process
+Create pull request from feature branch. Implement code review workflow and approval process.
+
+# GitHub Actions CI/CD
+Implement Terraform Validation Workflow
+Create GitHub Actions workflow to validate, format, and test Terraform code on every push.
+
+# Secrets Management
+Store & Use GitHub Secrets
+Store sensitive data (API keys, credentials) in GitHub Secrets. Access secrets in workflows.
+
+# Repository Policies & Branch Protection
+Implement Branch Protection Rules
+Enforce PR reviews, status checks, and require up-to-date branches before merge.
+
+# Tagging & Release Management
+Create Release Tags & Manage Versions
+Create version tags, generate release notes, and manage semantic versioning.
+
+# Collaborative Development
+Implement Multi-Developer Workflow
+Work with team on same codebase. Handle merge conflicts, code reviews, and coordination.
+
+# GitHub Advanced Features
+Implement Issues, Projects & Discussions
+Create GitHub Issues, link to PRs, use Projects for tracking, enable Discussions.
+
+
+
